@@ -1,0 +1,13 @@
+D:\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\1KIRILL\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\1KIRILL\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\1KIRILL\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\1KIRILL\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\1KIRILL\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\1KIRILL\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
