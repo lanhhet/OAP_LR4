@@ -282,7 +282,7 @@ public class Queue
     }
 
 
-    public static implicit operator int(Queue x)
+    public static explicit operator int(Queue x)
     {
         // подсчет количества положительных элементов в очереди
 
